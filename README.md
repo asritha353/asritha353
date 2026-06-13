@@ -48,10 +48,10 @@
 ```python
 class Asritha:
 
-    name        = "Kristapati Asritha"
+    name        = "Asritha Kristapati"
     role        = "Data Engineer & Full-Stack Developer"
     university  = "SRM University AP — CSE (Big Data Analytics)"
-    gpa         = "8.74 / 10"
+    gpa         = "8.7 / 10"
     location    = "Hyderabad, Telangana, India"
     blog        = "https://asritha353.github.io/project-blog/"
 
@@ -163,12 +163,16 @@ class Asritha:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asritha353&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asritha353&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asritha353&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asritha353&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asritha353&theme=tokyonight&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=FF6B6B&currStreakLabel=0A66C2" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=asritha353&theme=tokyonight&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=FF6B6B&currStreakLabel=0A66C2" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asritha353&theme=tokyonight" width="100%"/>
 </div>
 
 ---
