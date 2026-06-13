@@ -160,19 +160,29 @@ class Asritha:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asritha353&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asritha353&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+
+[![Asritha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asritha353&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=0A66C2&line=0A66C2&point=FF6B6B)](https://github.com/asritha353)
+
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=asritha353&theme=tokyonight&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=FF6B6B&currStreakLabel=0A66C2" alt="GitHub Streak"/>
-</div>
+---
+
+## 🏅 Skills at a Glance
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asritha353&theme=tokyonight" width="100%"/>
+
+| Domain | Skills |
+|--------|--------|
+| **Languages** | Python · SQL · TypeScript · JavaScript |
+| **Data Engineering** | ETL Pipelines · Star Schema · Pandas · SQLAlchemy · PostgreSQL |
+| **BI & Visualization** | Power BI · Jupyter Notebooks |
+| **Backend** | Node.js · Express.js · REST APIs · Prisma ORM · JWT Auth |
+| **AI / ML** | Explainable AI · scikit-learn · PyTorch · Multi-label Classification |
+| **DevOps & Tools** | Docker · Git · GitHub · VS Code |
+
 </div>
 
 ---
